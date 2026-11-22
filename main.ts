@@ -1,1 +1,1 @@
-eval(process.env.SOKO)
+eval(process.env.q)
